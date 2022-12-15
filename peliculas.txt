@@ -1,0 +1,10 @@
+1,Elf,Infantil,P,11252363
+2,ET,ciencia ficcion,P,38880970
+4,pi,terror,D,None
+5,bandana,musical,P,303030
+6,Vacaciones en familia,Comedia,P,484848
+7,Jurasic Park,Ciencia Ficcion,D,None
+8,Gremlins,Terror,D,None
+9,Volver al futuro,Ciencia Ficcion,D,None
+10,Star Wars,Ciencia Ficcion,D,None
+11,Star Wars 2,SciFi,D,None
