@@ -1,6 +1,7 @@
 # python-ABM
-Se modifica un archivo .txt para simular una base de datos local
-Consigna.
+Se modifica un archivo .txt para simular una base de datos local.
+
+Consigna:
 - clientes.txt : con los siguientes campos en cada registro (línea, renglon): DNI, Nombre Completo, Telefono, direccion, estado, codigo de barra
 - peliculas.txt: campos: código de barra, titulo, genero, estado, DNI del cliente (solo cuando la pelicula esté en préstamo)
 
